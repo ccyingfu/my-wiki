@@ -1,6 +1,6 @@
 # 知识库索引
 
-> 最后更新：2026-04-13 | 资料总数：1 | 页面总数：12
+> 最后更新：2026-04-14 | 资料总数：2 | 页面总数：22
 
 ---
 
@@ -10,10 +10,10 @@
 | 分类 | 说明 | 页面数 | 链接 |
 |-----|------|-------|------|
 | 📊 **个股** | 持仓/研究标的实体页 | 5 | → [个股索引](entities/_index-stocks.md) |
-| 🏭 **板块** | 行业/产业链板块分析 | 0 | → [板块索引](entities/_index-sectors.md) |
-| 📏 **指标** | 高频监控数据追踪 | 0 | → [指标索引](entities/_index-indicators.md) |
-| 🧠 **概念** | 分析框架·投资主题·理论模型 | 3(待建) | → [概念索引](concepts/_index-concepts.md) |
-| 📈 **分析** | 复盘笔记·对比分析·深度专题 | 1 | → [分析索引](analyses/_index-analyses.md) |
+| 🏭 **板块** | 行业/产业链板块分析 | 5 | → [板块索引](entities/_index-sectors.md) |
+| 📏 **指标** | 高频监控数据追踪 | 4 | → [指标索引](entities/_index-indicators.md) |
+| 🧠 **概念** | 分析框架·投资主题·理论模型 | 1(+3待建) | → [概念索引](concepts/_index-concepts.md) |
+| 📈 **分析** | 复盘笔记·对比分析·深度专题 | 2 | → [分析索引](analyses/_index-analyses.md) |
 
 ---
 
@@ -22,7 +22,7 @@
 | 文件 | 用途 | 条目数 |
 |-----|------|-------|
 | [待读清单](meta/reading-list.md) | 待处理的原始资料 | 0 |
-| [未解问题](meta/open-questions.md) | 待解答的研究问题 | 11 |
+| [未解问题](meta/open-questions.md) | 待解答的研究问题 | 13 |
 | [矛盾记录](meta/contradictions.md) | Wiki中发现的矛盾点 | 1 |
 
 ---
