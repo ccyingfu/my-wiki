@@ -20,6 +20,33 @@
 
 ---
 
+## 2.1 索引架构：分类拆分设计
+
+**设计原则**：总入口 `index.md` 永远保持精简（< 50行），详细条目在各子索引中。
+
+```
+index.md (精简总入口，仅分类导航 + 元信息概览)
+├── entities/_index-stocks.md      (个股列表)
+├── entities/_index-sectors.md     (板块列表)
+├── entities/_index-indicators.md  (指标列表)
+├── concepts/_index-concepts.md    (概念/框架/主题/理论)
+└── analyses/_index-analyses.md    (复盘/对比/深度报告)
+```
+
+**LLM 更新规则**：
+- 每次 Ingest 后 → 更新对应的子索引（如新建了个股页就更新 `_index-stocks.md`）
+- 同时更新 `index.md` 总入口中的计数
+- **不**要把具体条目写入总入口——那是子索引的职责
+
+**规模扩展预案**：
+| 页面总数 | 索引策略 |
+|---------|---------|
+| 0-200 | 子索引单文件即可 |
+| 200-500 | 考虑按首字母或时间拆分子索引 |
+| 500+ | 引入 qmd 搜索引擎，索引退化辅助浏览 |
+
+---
+
 ## 2. 目录结构
 
 ```
@@ -35,8 +62,29 @@ my-wiki/
 │
 ├── wiki/                          # 知识库（LLM维护）
 │   ├── schema.md                  # ⬅ 你正在阅读的这个文件
-│   ├── index.md                   # 全局索引
-│   ├── log.md                     # 操作日志
+│   ├── index.md                   # 全局索引（精简总入口，仅分类导航）
+│   ├── log.md                     # 操作日志（只追加不修改）
+│   │
+│   ├── entities/                  # 实体页面（具体的"东西"）
+│   │   ├── _index-stocks.md       # 个股子索引
+│   │   ├── _index-sectors.md      # 板块子索引
+│   │   ├── _index-indicators.md   # 指标子索引
+│   │   ├── stocks/                # 个股页面
+│   │   ├── sectors/               # 板块页面
+│   │   ├── people/                # 人物页面
+│   │   └── indicators/            # 指标页面
+│   │
+│   ├── concepts/                  # 概念页面（抽象的"想法"）
+│   │   ├── _index-concepts.md     # 概念子索引
+│   │   ├── frameworks/            # 分析框架/方法论
+│   │   ├── themes/                # 投资主题
+│   │   └── theories/              # 理论模型
+│   │
+│   ├── analyses/                  # 分析产出
+│   │   ├── _index-analyses.md     # 分析产出子索引
+│   │   ├── comparisons/           # 对比分析
+│   │   ├── deep-dives/            # 深度专题
+│   │   └── reviews/               # 复盘笔记(按日期归档)
 │   │
 │   ├── entities/                  # 实体页面（具体的"东西"）
 │   │   ├── stocks/                # 个股页面
