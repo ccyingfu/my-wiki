@@ -14,3 +14,7 @@ Thumbs.db
 # Temporary
 *.tmp
 *.bak
+.claude
+.qoder
+.vscode/
+.obsidian
