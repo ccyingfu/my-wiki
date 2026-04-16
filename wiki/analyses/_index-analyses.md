@@ -6,7 +6,7 @@
 
 | 日期 | 标题 | 说明 |
 |-----|------|------|
-| **[market-20260414](reviews/market-20260414.md)** | 每日个股分析（0414） | 9只持仓四维+券商观点 |
+| **[daily-stock-analysis-20260414](reviews/daily-stock-analysis-20260414.md)** | 每日个股分析（0414） | 9只持仓四维+券商观点 |
 | **[market-20260413](reviews/market-20260413.md)** | A股行情分析（0413） | 13标的PCB领涨 |
 | **[market-20260410](reviews/market-20260410.md)** | A股行情分析（0410） | 13标的新易盛最强 |
 | **[2026-04-16-batch-ingest](reviews/2026-04-16-batch-ingest-my-wiki.md)** | my-wiki批量录入摘要 | ingest总览 |
