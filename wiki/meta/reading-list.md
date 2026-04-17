@@ -1,3 +1,10 @@
+---
+title: 待读清单
+type: meta
+category: reading-list
+created: 2026-04-13
+updated: 2026-04-17
+---
 # 待读清单
 
 > 资料放入 `raw/` 后在此登记，录入完成后打 ✅ 标记。

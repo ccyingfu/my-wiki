@@ -1,3 +1,10 @@
+---
+title: 矛盾记录
+type: meta
+category: contradictions
+created: 2026-04-13
+updated: 2026-04-17
+---
 # 矛盾记录
 
 > Wiki 中发现的相互冲突或需要验证的观点。状态：🔴 未解决 / 🟡 部分验证 / 🟢 已解决

@@ -1,3 +1,10 @@
+---
+title: 未解问题
+type: meta
+category: open-questions
+created: 2026-04-13
+updated: 2026-04-17
+---
 # 未解问题
 
 > 研究过程中产生的开放性问题。已解答的移到底部"已归档"区域。
