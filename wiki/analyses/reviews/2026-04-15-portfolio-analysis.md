@@ -2,6 +2,8 @@
 type: analysis
 category: review
 date: 2026-04-15
+created: 2026-04-15
+updated: 2026-04-17
 title: 持仓组合分析报告（修订版）
 source: raw/reports/持仓分析报告_20260415.md
 entities: [阳光电源, 闻泰科技, 澜起科技, 新易盛, 紫金矿业, 中芯国际, 比亚迪, 汇川技术, 润泽科技]

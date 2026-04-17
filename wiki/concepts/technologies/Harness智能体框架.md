@@ -1,3 +1,11 @@
+---
+title: Harness智能体框架
+type: concept
+category: technology
+created: 2026-04-16
+updated: 2026-04-17
+---
+
 # Harness（智能体评估/协同框架）
 
 > 来源：my-wiki/raw/articles | Ingest: 2026-04-16

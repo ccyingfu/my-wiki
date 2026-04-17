@@ -6,6 +6,7 @@ date: 2026-04-13
 stocks: [阳光电源, 澜起科技, 新易盛, 闻泰科技, 紫金矿业]
 source: raw/notes/daily-stock-analysis.md
 created: 2026-04-13
+updated: 2026-04-17
 ---
 
 # 2026-04-13 个股分析报告

@@ -2,6 +2,8 @@
 title: "Wiki Lint 报告 — 2026-04-16"
 type: lint-report
 date: 2026-04-16
+created: 2026-04-16
+updated: 2026-04-16
 pages-checked: 73
 issues-found: 78
 auto-fixed: 4

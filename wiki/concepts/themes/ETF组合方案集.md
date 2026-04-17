@@ -1,3 +1,10 @@
+---
+title: ETF组合方案集
+type: theme
+created: 2026-04-16
+updated: 2026-04-17
+---
+
 # 📊 ETF投资组合方案集
 
 > 来源：my-wiki/raw/notes（3份方案合并） | Ingest: 2026-04-16

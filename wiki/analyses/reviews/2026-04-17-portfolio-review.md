@@ -2,6 +2,8 @@
 type: analysis
 category: review
 date: 2026-04-17
+created: 2026-04-17
+updated: 2026-04-17
 title: 持仓复盘笔记（2026-04-17）
 source: 腾讯行情实时数据（2026-04-17 15:38收盘）
 entities: [阳光电源, 闻泰科技, 澜起科技, 新易盛, 紫金矿业, 中芯国际, 比亚迪, 汇川技术, 润泽科技]
