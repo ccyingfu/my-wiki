@@ -57,4 +57,4 @@ updated: 2026-04-17
 
 ---
 
-*详细个股分析 → 见各实体页面：[阳光电源](../entities/stocks/阳光电源.md) | [澜起科技](../entities/stocks/澜起科技.md) | [新易盛](../entities/stocks/新易盛.md) | [闻泰科技](../entities/stocks/闻泰科技.md) | [紫金矿业](../entities/stocks/紫金矿业.md)*
+*详细个股分析 → 见各实体页面：[阳光电源](../../entities/stocks/阳光电源.md) | [澜起科技](../../entities/stocks/澜起科技.md) | [新易盛](../../entities/stocks/新易盛.md) | [闻泰科技](../../entities/stocks/闻泰科技.md) | [紫金矿业](../../entities/stocks/紫金矿业.md)*

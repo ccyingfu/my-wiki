@@ -61,4 +61,4 @@
 
 ---
 
-*关联页面：[昇腾板块](../entities/sectors/昇腾.md) · [华丰科技](../entities/stocks/华丰科技.md) · [中际旭创](../entities/stocks/中际旭创.md) · [拓维信息](../entities/stocks/拓维信息.md) · [川润股份](../entities/stocks/川润股份.md) · [高新发展](../entities/stocks/高新发展.md)*
+*关联页面：[昇腾板块](../../entities/sectors/昇腾.md) · [华丰科技](../../entities/stocks/华丰科技.md) · [中际旭创](../../entities/stocks/中际旭创.md) · [拓维信息](../../entities/stocks/拓维信息.md) · [川润股份](../../entities/stocks/川润股份.md) · [高新发展](../../entities/stocks/高新发展.md)*
