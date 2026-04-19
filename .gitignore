@@ -18,3 +18,7 @@ Thumbs.db
 .qoder
 .vscode/
 .obsidian
+
+# Raw 资料库：只保留目录结构（.gitkeep），忽略所有内容文件
+raw/*/*
+!raw/*/.gitkeep
