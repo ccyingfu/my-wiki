@@ -1,6 +1,6 @@
 # 知识库索引
 
-> 最后更新：2026-04-20 | 资料总数：22 | 页面总数：91
+> 最后更新：2026-04-21 | 版本：v2.1.0（合并版）
 
 ---
 
@@ -9,11 +9,27 @@
 
 | 分类 | 说明 | 页面数 | 链接 |
 |-----|------|-------|------|
-| 📊 **个股** | 持仓/研究标的实体页 | 40 | → [个股索引](entities/_index-stocks.md) |
-| 🏭 **板块** | 行业/产业链板块分析 | 5 | → [板块索引](entities/_index-sectors.md) |
-| 📏 **指标** | 高频监控数据追踪 | 4 | → [指标索引](entities/_index-indicators.md) |
-| 🧠 **概念** | 分析框架·投资主题·理论模型 | 14 | → [概念索引](concepts/_index-concepts.md) |
-| 📈 **分析** | 复盘笔记·对比分析·深度专题 | 13 | → [分析索引](analyses/_index-analyses.md) |
+| 📊 **个股** | 持仓/研究标的实体页 | 56 | → [个股索引](entities/_index-stocks.md) |
+| 🏭 **板块** | 行业/产业链板块分析 | 24 | → [板块索引](entities/_index-sectors.md) |
+| 📏 **指标** | 高频监控数据追踪 | 5 | → [指标索引](entities/_index-indicators.md) |
+| 👤 **人物** | 关键人物/企业家 | 2 | → [人物索引](entities/_index-people.md) |
+| 🏢 **机构** | 投行/券商/科技公司 | 4 | → [机构索引](entities/_index-orgs.md) |
+| 📚 **书籍** | 电子书/书籍实体页 | 0 | → [书籍索引](entities/_index-books.md) |
+| 🔧 **工具** | AI 工具/软件/平台 | 0 | → [工具索引](entities/_index-tools.md) |
+| 🧠 **概念** | 分析框架·投资主题·理论模型·术语定义 | 25 | → [概念索引](concepts/_index-concepts.md) |
+| 📈 **分析** | 复盘笔记·对比分析·深度专题·行业分析 | 20+ | → [分析索引](analyses/_index-analyses.md) |
+
+---
+
+## 概念分类详情
+
+| 子分类 | 页面数 | 说明 |
+|-------|-------|------|
+| **框架** (frameworks) | 11 | 分析框架/方法论 |
+| **主题** (themes) | 6 | 投资主题/宏观主题 |
+| **理论** (theories) | 3 | 理论模型 |
+| **定义** (definitions) | 11 | 术语定义（AIDC/GPU/HBM/CRO/HALO/高ROE/高股息/品牌护城河/液冷/铝电解电容/REITs） |
+| **技术** (technologies) | 2 | 关键技术（HBM/ Harness） |
 
 ---
 
@@ -23,13 +39,13 @@
 |-----|------|-------|
 | [待读清单](meta/reading-list.md) | 待处理的原始资料 | 0 |
 | [未解问题](meta/open-questions.md) | 待解答的研究问题 | 17 |
-| [矛盾记录](meta/contradictions.md) | Wiki中发现的矛盾点 | 1 |
+| [矛盾记录](meta/contradictions.md) | Wiki 中发现的矛盾点 | 1 |
 
 ---
 
 ## 📋 快速导航
 
-- **[Schema规范](schema.md)** — 本Wiki的工作约定与页面模板
+- **[Schema 规范](schema.md)** — 本 Wiki 的工作约定与页面模板（v2.1.0）
 - **[操作日志](log.md)** — 全部操作时间线
 - **[原始资料库](../raw/)** — 原始文档（只读）
 
